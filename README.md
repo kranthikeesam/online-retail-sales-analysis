@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Retail Sales Analysis
 
 ## Overview
@@ -39,3 +40,8 @@ online-retail-sales-analysis/
 - Working with Jupyter Notebooks and Git/GitHub for version control
 
 
+=======
+
+My project aims to analyze online retail sales data to uncover meaningful business insights through data-driven methods. By using Python-based tools such as pandas, matplotlib, and Jupyter Notebook, the analysis focuses on understanding sales trends, customer behavior, and revenue patterns. The goal is to transform raw transaction records into clear visualizations and actionable findings that can support business decision-making. Utilizing data cleaning techniques, feature engineering, and exploratory analysis, this project demonstrates how real-world datasets can be processed to reveal patterns that are not immediately visible. Such analytical approaches play a crucial role in helping businesses optimize performance, target high-value markets, and improve strategic planning.
+
+>>>>>>> 16aabff4ba8935c83b886521c077d7908653f96b
